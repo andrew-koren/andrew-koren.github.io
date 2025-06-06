@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
@@ -41,3 +42,10 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+=======
+# Andrew Koren
+
+## Hi Mom!
+
+I've made my first webpage, yay! Time to copy someone else's theme and figure out how to display my other repositories
+>>>>>>> main

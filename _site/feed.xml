@@ -1,0 +1,49 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Andrew Koren</title>
+  <subtitle>A Physics Student at Illinois Instute of Technology</subtitle>
+  <updated>2025-06-06T12:46:21-05:00</updated>
+  <author>
+    <name>Andrew Koren</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Andrew Koren </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>F1RST P0ST</title>
+    <link href="http://localhost:4000/posts/F1RST-P0ST/" rel="alternate" type="text/html" title="F1RST P0ST" />
+    <published>2025-06-06T01:00:00-05:00</published>
+  
+    <updated>2025-06-06T01:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/F1RST-P0ST/</id>
+    <content type="text/html" src="http://localhost:4000/posts/F1RST-P0ST/" />
+    <author>
+      <name>Andrew Koren</name>
+    </author>
+
+  
+    
+    <category term="personal" />
+    
+    <category term="test" />
+    
+  
+
+  <summary>F1RST P0ST  https://xkcd.com/269/  python code:  print(&amp;#39;hello world&amp;#39;)   html:  my stuff/FS23/classes.ipynb      1D_nucleation.png</summary>
+
+  </entry>
+
+</feed>
+
+

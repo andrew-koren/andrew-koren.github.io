@@ -18,7 +18,7 @@
 #
 - type: linkedin
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
-  url: "linkedin.com/in/andrewkorenphysics" # Fill with your Linkedin homepage
+#  url: "linkedin.com/in/andrewkorenphysics" # Fill with your Linkedin homepage
 
 - type: rss
   icon: "fas fa-rss"

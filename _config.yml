@@ -16,10 +16,10 @@ timezone: America/Chicago
 
 title: Andrew Koren # the main title
 
-tagline: A Physics Student at Illinois Instute of Technology # it will display as the subtitle
+tagline: Physics Graduate Student at Illinois Instute of Technology
 
 description: >- # used by seo meta and the atom feed
-  A Physics Student at Illinois Instute of Technology
+  Physics Graduate Student at Illinois Instute of Technology
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -97,7 +97,7 @@ theme_mode: # [dark | light]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/avatar/avatar.JPG
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

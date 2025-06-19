@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Andrew Koren</title>
   <subtitle>Physics Graduate Student at Illinois Instute of Technology</subtitle>
-  <updated>2025-06-07T19:56:45-05:00</updated>
+  <updated>2025-06-19T13:34:04-05:00</updated>
   <author>
     <name>Andrew Koren</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/F1RST-P0ST/" rel="alternate" type="text/html" title="F1RST P0ST" />
     <published>2025-06-06T01:00:00-05:00</published>
   
-    <updated>2025-06-06T13:24:46-05:00</updated>
+    <updated>2025-06-07T20:02:07-05:00</updated>
   
     <id>http://localhost:4000/posts/F1RST-P0ST/</id>
     <content type="text/html" src="http://localhost:4000/posts/F1RST-P0ST/" />
@@ -42,7 +42,7 @@
     
   
 
-  <summary>F1RST P0ST  https://xkcd.com/269/  python code:  print(&amp;#39;hello world&amp;#39;)   html:  my stuff/FS24/MTH 416/mth 416 notes.ipynb      1D_nucleation.webp      Math  [\sqrt{1} = \sqrt{\frac{a^2 + b^2}{c^2}}  1 = \frac{\left( a^2 + b^2\right)^{1/2}}{c}]  nice \(\mathbb{M} \mathcal{A} \mathrm{T} \mathsf{H}\)</summary>
+  <summary>F1RST P0ST  https://xkcd.com/269/  python code:  print(&amp;#39;hello world&amp;#39;)   html:  my stuff/FS24/MTH 416/mth 416 notes.ipynb      1D_nucleation.webp      Math  [\sqrt{1} = \sqrt{\frac{a^2 + b^2}{c^2}}   1 = \frac{\left( a^2 + b^2\right)^{1/2}}{c}]  nice \(\mathbb{M} \mathcal{A} \mathrm{T} \mathsf{H}\)</summary>
 
   </entry>
 
